@@ -26,10 +26,6 @@ The portal is designed with clean UI, reusable components, and form validation.
 
 ---
 
-## 📸 Screenshots
-
-👉 *(Add screenshots of your Signup & Login pages here once you upload images to repo)*
-
 ---
 
 ## 🚀 Getting Started
